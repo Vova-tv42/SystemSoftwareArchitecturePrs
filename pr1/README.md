@@ -1,3 +1,6 @@
+# Linux installation
+Installed Ubuntu 24 LTS with a dual boot (three months ago). No problems were encountered. 
+
 # Task 1: String Replace
 
 ## Description

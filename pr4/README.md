@@ -16,6 +16,7 @@
 
 **Результат виконання:**
 
+<img width="683" height="47" alt="image" src="https://github.com/user-attachments/assets/cd9214f5-14e5-4766-9393-4537ecdddaf3" />
 
 ---
 
@@ -24,6 +25,7 @@
 
 **Результат виконання:**
 
+<img width="369" height="92" alt="image" src="https://github.com/user-attachments/assets/7b347ba6-45e0-486c-a8b3-4c20ef010f44" />
 
 ---
 
@@ -32,9 +34,12 @@
 
 **Результат виконання:**
 
+<img width="428" height="76" alt="image" src="https://github.com/user-attachments/assets/ffc4edd6-b6c8-4a07-a2dc-1e258be0fae1" />
+
 
 **Результат виконання з ltrace:**
 
+<img width="1648" height="181" alt="image" src="https://github.com/user-attachments/assets/457efacf-684a-4975-b08a-9709b59f10cc" />
 
 ---
 
@@ -43,6 +48,7 @@
 
 **Результат виконання:**
 
+<img width="539" height="137" alt="image" src="https://github.com/user-attachments/assets/f8a3f2a1-b2ce-427f-b956-67f7bc78b170" />
 
 ---
 
@@ -51,6 +57,7 @@
 
 **Результат виконання:**
 
+<img width="821" height="73" alt="image" src="https://github.com/user-attachments/assets/faaebcdb-278f-4fc3-913f-6ffde83fdf09" />
 
 ---
 
@@ -59,6 +66,7 @@
 
 **Результат виконання:**
 
+<img width="651" height="67" alt="image" src="https://github.com/user-attachments/assets/2c1e2c71-df2e-451a-abc8-e1ecd098d28b" />
 
 ---
 
@@ -67,9 +75,12 @@
 
 **Результат виконання:**
 
+<img width="377" height="70" alt="image" src="https://github.com/user-attachments/assets/20e51ff6-e5aa-46c5-89b1-45afc95020a5" />
+
 
 **Результат виконання з ltrace:**
 
+<img width="1660" height="206" alt="image" src="https://github.com/user-attachments/assets/3679f9fd-15e1-47c5-8219-d41f79f8aea0" />
 
 ---
 
@@ -78,3 +89,6 @@
 
 **Результат виконання:**
 
+<img width="386" height="72" alt="image" src="https://github.com/user-attachments/assets/be7f69a3-452e-40e9-8b55-afa189d05ecd" />
+
+Швидкість виконання програми пришвидшився більше, ніж у 8 разів.

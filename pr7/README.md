@@ -18,12 +18,14 @@
 
 **Результат виконання:**
 
+<img width="549" height="74" alt="image" src="https://github.com/user-attachments/assets/b209ff77-6346-454b-9ebf-afff81cce69f" />
 
 ### task2.c 
 Програма імітує команду `ls -l` у поточному каталозі. Вона зчитує вміст каталогу та для кожного елемента отримує детальну інформацію про права доступу, кількість посилань, власника, групу, розмір та час останньої зміни.
 
 **Результат виконання:**
 
+<img width="662" height="646" alt="image" src="https://github.com/user-attachments/assets/405ee3d8-c1e2-4d8b-bd1f-f66d3faa4a7e" />
 
 ### task3.c
 Програма друкує всі рядки з файлу, що містять слово, передане як перший аргумент.
@@ -36,6 +38,7 @@
 
 **Результат виконання:**
 
+<img width="512" height="50" alt="image" src="https://github.com/user-attachments/assets/7331c354-bcfe-4617-a5b7-3cfd596fc128" />
 
 ### task4.c
 Виводить список файлів із паузою кожні 20 рядків. Очікує натискання клавіші [Enter] для продовження.
@@ -47,36 +50,45 @@
 
 **Результат виконання:**
 
+<img width="549" height="778" alt="image" src="https://github.com/user-attachments/assets/6b816439-dfec-4b22-b41e-b12187a3481f" />
+<img width="664" height="722" alt="image" src="https://github.com/user-attachments/assets/4de8aa77-737b-4748-a37a-3e70b709ad84" />
+<img width="615" height="722" alt="image" src="https://github.com/user-attachments/assets/b6987019-04b4-4b77-80d8-65596e5a1e61" />
 
 ### task5.c 
 Виконує рекурсивний обхід усіх підкаталогів, починаючи з поточного, та виводить шляхи до всіх знайдених файлів.
 
 **Результат виконання:**
 
+<img width="567" height="618" alt="image" src="https://github.com/user-attachments/assets/30da103b-cdff-494b-bb7c-0ec53456979d" />
 
 ### task6.c
 Перелічує лише підкаталоги в поточному каталозі у алфавітному порядку.
 
 **Результат виконання:**
 
+<img width="430" height="88" alt="image" src="https://github.com/user-attachments/assets/d442d595-7329-4870-90dd-a76b7a685004" />
 
 ### task7.c
 Знаходить усі `.c` файли та запитує користувача, чи потрібно надати іншим дозвіл на читання (`read permission`).
 
 **Результат виконання:**
 
+<img width="472" height="421" alt="image" src="https://github.com/user-attachments/assets/87df4e00-4b09-4fdc-a457-69742b087d5c" />
+<img width="761" height="578" alt="image" src="https://github.com/user-attachments/assets/eff08f3f-1801-4883-9577-d7d2e56730d9" />
 
 ### task8.c
 Запитує користувача про видалення кожного файлу в поточному каталозі.
 
 **Результат виконання:**
 
+<img width="1091" height="764" alt="image" src="https://github.com/user-attachments/assets/9f41cbbf-a56e-45cd-9258-1b0ce98f18c3" />
 
 ### task9.c
 Вимірює час виконання фрагмента коду (великого циклу) у мілісекундах.
 
 **Результат виконання:**
 
+<img width="415" height="137" alt="image" src="https://github.com/user-attachments/assets/e345dfef-8c38-49fb-9db0-68886efdbc42" />
 
 ### task10.c
 Генерує випадкові числа з плаваючою точкою у діапазонах [0.0, 1.0] та [0.0, n].
@@ -87,6 +99,7 @@
 
 **Результат виконання:**
 
+<img width="433" height="275" alt="image" src="https://github.com/user-attachments/assets/09dc451b-8e5d-44ee-8a19-90326b299a18" />
 
 ### task_v9.c
 Сканує порти (від 20 до 100) на вказаній IP-адресі без прямого використання сокетів.
@@ -97,3 +110,4 @@
 
 **Результат виконання:**
 
+<img width="521" height="187" alt="image" src="https://github.com/user-attachments/assets/ed084685-ce7a-4269-964e-58f2bc8e69ef" />

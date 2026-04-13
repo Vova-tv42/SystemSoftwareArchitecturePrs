@@ -16,39 +16,47 @@
 
 **Результат виконання:**
 
+<img width="451" height="69" alt="image" src="https://github.com/user-attachments/assets/9269a63f-acf4-430d-ba3c-2c4f2162675e" />
 
 ### task2.c
 Програма демонструє використання `sudo` для читання захищеного файлу `/etc/shadow`, який зазвичай недоступний звичайним користувачам.
 
 **Результат виконання:**
 
+<img width="386" height="132" alt="image" src="https://github.com/user-attachments/assets/85db8d56-d7e8-457f-a639-d4e5875a75bb" />
 
 ### task3.c
 Демонструє створення файлу, його копіювання від імені адміністратора та зміну власника на root. Потім показує, як система забороняє звичайному користувачу редагувати файл, але дозволяє видалити його (оскільки він у домашній директорії користувача).
 
 **Результат виконання:**
 
+<img width="1217" height="227" alt="image" src="https://github.com/user-attachments/assets/b1c1e575-bd80-49bd-900c-95bc274261ae" />
+<img width="915" height="288" alt="image" src="https://github.com/user-attachments/assets/7484027d-de9d-4e9f-909b-07aed3796d3d" />
 
 ### task4.c
 Почергово виконує команди `whoami` та `id` для отримання поточної інформації про обліковий запис користувача.
 
 **Результат виконання:**
 
+<img width="1573" height="140" alt="image" src="https://github.com/user-attachments/assets/33ae034a-5d34-4a8d-bab4-4c5b3d53240a" />
 
 ### task5.c
 Створює тимчасовий файл, змінює його права та власника за допомогою `sudo`. Показує різні сценарії доступу (тільки читання, повний доступ, відсутність доступу).
 
 **Результат виконання:**
 
+<img width="601" height="439" alt="image" src="https://github.com/user-attachments/assets/9782df21-9da7-442e-a669-7175807b7091" />
 
 ### task6.c
 Виводить права доступу для декількох системних каталогів та робить спроби відкрити захищені файли для демонстрації механізмів безпеки Linux.
 
 **Результат виконання:**
 
+<img width="764" height="376" alt="image" src="https://github.com/user-attachments/assets/adadcc09-b6d9-4dcb-b8b0-0cc75ee794fb" />
 
 ### task_v9.c
 Програма сканує `/etc/passwd` на наявність користувачів з однаковим UID та надає теоретичне пояснення того, чому це можливо і які наслідки це має для системи.
 
 **Результат виконання:**
 
+<img width="836" height="249" alt="image" src="https://github.com/user-attachments/assets/b6b67616-fdf8-490b-b7b4-13ba666a913d" />

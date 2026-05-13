@@ -16,3 +16,4 @@
 
 **Результат виконання:**
 
+<img width="917" height="226" alt="image" src="https://github.com/user-attachments/assets/78e186cb-42a2-4217-9aa7-38ca433d5d61" />
